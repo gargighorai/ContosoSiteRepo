@@ -1,0 +1,2 @@
+# ContosoSiteRepo
+for azure deploy
